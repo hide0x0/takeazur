@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'alp-web-qad185'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ADBAB113B1184247A1AC3EEB63A33725 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C42852982AD4F9D8188181961C94ADC }}
