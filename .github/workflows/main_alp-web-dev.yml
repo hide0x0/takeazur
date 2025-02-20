@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'alp-web-dev'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4DDCE28A9304F29976A4742768D1336 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FB778F8602774E90A0DD6393E93CAD1F }}
