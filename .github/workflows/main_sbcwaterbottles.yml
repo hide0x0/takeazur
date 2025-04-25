@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'sbcwaterbottles'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_47921FDDD1A74D2582450DFDC0D9775E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B64E67BB836F46C69F7DC58B29509980 }}
